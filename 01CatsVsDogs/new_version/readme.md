@@ -7,5 +7,5 @@
   2. fetch the contents of each queue independently with sess.run()
   3. during training, use feed_dict to select which one to be pushed into the computational graph
   
-# Screenshots:
-  
+# help:
+  http://www.cnblogs.com/cxscode/p/8476966.html
